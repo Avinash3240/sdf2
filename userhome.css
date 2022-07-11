@@ -1,0 +1,486 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    }
+    .form-outline{
+      display: inline-flex;
+    }
+    h2{
+      text-align: center;
+    
+    }
+    h1{
+      text-align: center;
+    }
+    h4{
+      text-align: center;
+    }
+    h5{
+      text-align: center;
+    }
+    body{
+      background: rgba(27, 27, 27);
+    } 
+    *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    }
+    
+    .card{
+    
+    width: 270px;
+    height: 350px;
+    margin: 10px;
+    border-radius: 15px;
+    }
+    
+    
+    
+    .container-image{
+    background-color: aqua;
+    height: 200px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+    }
+    .input-group{
+      margin-bottom: 2rem;
+      margin-top: 2rem;
+    }
+    
+    .shirt-1{
+    background-image: url(https://th.bing.com/th/id/OIP.NAJFaE_5HYgguYR9Q2-udwHaJQ?pid=ImgDet&rs=1);
+    
+    }
+    
+    
+    
+    .shirt-2{
+    background-image: url(https://external-preview.redd.it/bIcxZl9fUpuG2a0Y-Axf2Tf7d4r4n6PQb8zoST-Rak4.jpg?auto=webp&s=d3bc803f8901454346344ed709b913c49612b0ba);
+    
+    }
+    
+    
+    
+    
+    
+    .shirt-3{
+    background-image: url(https://th.bing.com/th/id/OIP.yEh6mG77Sd54jniZqREd1wHaHa?pid=ImgDet&w=1425&h=1425&rs=1);
+    
+    }
+    
+    .shirt-4{
+    
+      background-image: url(https://www.mientus.com/media/image/79/56/10/54865954.jpg);
+    }
+    .shirt-5{
+    
+      background-image: url(https://www.looksgud.in/blog/wp-content/uploads/2015/05/slimfit-formal-shirt.jpg);
+    }
+    .shirt-6{
+    
+      background-image: url(https://fxposed.co.uk/Images/No%20Watermark/Shirts/SHIRT-3012-3014/SHIRT-3013-MAROON/IMG_6262.JPG);
+    }
+    .jean-1{
+      background-image: url(https://th.bing.com/th/id/R.47dd18514909ced871639d0fbbe7d328?rik=BYf2vLj7syte1A&riu=http%3a%2f%2fwww.warehouseone.com%2fon%2fdemandware.static%2f-%2fSites-master-catalog%2fdefault%2fdw5bf54fec%2fwho%2f1110106363%7e090%7e1.jpg&ehk=b3QCsYlOAHDKku7Rtm9foBKYZlWfja0vJizsl6e9MWs%3d&risl=&pid=ImgRaw&r=0);
+    }
+    .jean-2{
+      background-image: url(https://cdnd.lystit.com/photos/2013/11/28/denim-supply-ralph-lauren-groix-distressed-straightfit-jeans-product-1-15417877-499372309.jpeg);
+    }
+    .jean-3{
+      background-image: url(https://cdnb.lystit.com/photos/2013/10/27/dr-denim-black-snap-skinny-jeans-product-1-14513435-415421522.jpeg);
+    }
+    .jean-4{
+      background-image: url(https://i5.walmartimages.com/asr/9ac7ff79-7abb-4514-bd87-521b6d4de1ef.1a79347a57eba16d77cb29d09c988c27.jpeg);
+    }
+    .jean-5{
+      background-image: url(https://i.pinimg.com/originals/fe/2f/a7/fe2fa7b1ec7e9a4ce4f185c2fd458201.jpg);
+    }
+    .jean-6{
+      background-image: url(https://www.wholesalejeans.to/wp-content/uploads/2020/04/c20b71271ab97638-1-683x1024.jpg);
+    }
+    .tshirt-1{
+      background-image: url(https://martinvalen.com/12708/men-s-dotwork-oversize-t-shirt-in-beige.jpg);
+    }
+    .tshirt-2{
+      background-image: url(https://th.bing.com/th/id/R.41d8d7c64dd9fb88403027f36122b6df?rik=kYxDf3136ccSjQ&riu=http%3a%2f%2fohtopten.com%2fwp-content%2fuploads%2f2015%2f08%2fBest-T-shirts-for-men-6.jpg&ehk=jCnoSWc4omyYadyn9GPOoHGv1y2dISHUXjul8rQGjXk%3d&risl=&pid=ImgRaw&r=0);
+    }
+    .tshirt-3{
+      background-image: url(https://th.bing.com/th/id/OIP.7NNuqS1Xl7q0hrr12ahaDgHaLH?pid=ImgDet&rs=1);
+    }
+    .tshirt-4{
+      background-image: url(https://th.bing.com/th/id/R.2f29ca6faee32427b769f169b7346f77?rik=%2flEqwxY0b4P%2bcA&riu=http%3a%2f%2fep.yimg.com%2fay%2fvillagestreetwear%2fholiday-workout-funny-girls-t-shirt-11.jpg&ehk=jW8TjadYjEivJFCBEn9xv2I%2fTa7PHR3SUuYfyKranrI%3d&risl=&pid=ImgRaw&r=0);
+    }
+    .tshirt-5{
+      background-image: url(https://i5.walmartimages.com/asr/d6159de8-345e-4bc6-b0e3-5a110af489b5_1.2ef4e4e70ce15d7cab68a490ce5a3970.jpeg);
+    }
+    .tshirt-6{
+      background-image: url(https://matalan-content.imgix.net/uploads/asset_file/asset_file/264879/1581093697.7890391-S2764913_C323_Alt1.jpg?ixlib=rails-2.1.4&auto=format%2Ccompress&cs=tinysrgb&w=846&h=1184&fit=fit&s=96234c81b6930c2234e20a64eb5ecbd1);
+    }
+    .shoes-1{
+      background-image: url(https://www.big5sportinggoods.com/catalogimage/img/product/rwd/zoom/5710_11370_0253_036_zoom_03.jpg);
+    }
+    .shoes-2{
+      background-image: url(https://images.beallsflorida.com/i/beallsflorida/091-2822-3421-41-yyy?$content-jpeg$);
+    }
+    .shoes-3{
+      background-image: url(https://th.bing.com/th/id/OIP.08EMNRe9sCwte6QFTvyIQgHaHF?w=193&h=185&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+    }
+    .shoes-4{
+      background-image: url(https://i5.walmartimages.com/asr/09a16c00-4d7d-4e7c-b646-a80db7e7c870_1.b459672f3e788b62d489ec335797a78d.jpeg);
+    }
+    .shoes-5{
+      background-image: url(https://29.cdn.ekm.net/ekmps/shops/37b2ca/images/heelys-pro-20-wheels-skating-girls-shoes-neon-pink-white-he100770-137177-1-p.jpg?v=FA0DD892-FBCE-42F8-B7BC-AD88294D2662);
+    }
+    .shoes-6{
+      background-image: url(https://th.bing.com/th/id/OIP.D8QjkIjiNZ7obpiDdDu0MwHaHa?w=182&h=182&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+    }
+    .ww-1{
+      background-image: url(https://www.toko.lk/wp-content/uploads/2019/10/Men-Wrist-Watch-Buy-Online-ido.lk_.jpg);
+    }
+    .ww-2{
+      background-image: url(https://i.etsystatic.com/34547145/r/il/646a61/3981112580/il_794xN.3981112580_qygb.jpg);
+    }
+    .ww-3{
+      background-image: url(https://th.bing.com/th/id/OIP.nUIFHxk-RXYuVthWsr1CUwHaJ0?w=182&h=241&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+    }
+    .ww-4{
+      background-image: url(https://th.bing.com/th/id/OIP.2Hq7DU_RpTGtn3FXbVAtnAHaHa?w=210&h=210&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+      }
+    .ww-5{
+      background-image: url(https://th.bing.com/th/id/OIP.tFdR-GAYpQS1CNQVbPTXfQHaHa?w=210&h=210&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+    }
+    .ww-6{
+      background-image: url(https://th.bing.com/th/id/OIP.VV5uB8gZB5t4UZOTqbLNlwHaHa?w=216&h=216&c=7&r=0&o=5&dpr=1.25&pid=1.7);
+    }
+    
+    
+    .space{
+      margin-top: 3rem;
+      margin-bottom: 3rem;
+    }
+    .card:hover{
+    
+    background-color: #dcdcdc;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    
+    /* color: white; */
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: all 1s ease;
+    
+    }
+    
+    .form-outline{
+    
+    width: 100%;
+    margin: 0 150px 0 150px;
+    box-sizing: border-box;
+    }
+
+
+    /*popup-window for add to cart*/
+
+    .adcart{
+      font-weight:bolder;
+      top:80px;
+        position:fixed;
+        left:50%;
+        transform:translate(-50%,-50%) scale(0);
+        border: 1px solid;
+        width: 180px;
+        text-align: center;
+        padding:30px 0px;
+        background-color: rgb(16, 247, 16);
+        color:rgb(8, 8, 111);
+    }
+    .adcart.active{
+      transform:translate(-50%,-50%) scale(1);
+      box-shadow: 8px 8px 9px #000;
+      transition: 0.25s ease-in-out;
+      }
+    .adcart:hover{
+      cursor: pointer;
+    }
+    .adcart #a1{
+      position: fixed;
+      top:0px;
+      right:5px;
+    }
+    .cart{
+      position:absolute;
+      top:40px;
+      right:25px;
+      width:150px;
+      padding: 10px 30px;
+      border: 0.25px solid;
+      transition: all 0.25s ease;
+      color:white;
+      border-color:rgb(130, 123, 123)
+    }
+    .fa-cart-shopping{
+      width: 100px;
+    }
+    .cart:hover{
+      cursor: pointer;
+      background-color: rgba(70, 74, 73, 0.319);
+      box-shadow: 8px 8px 8px #000;
+      transition: all 0.25s ease;
+      border: 1px solid;
+    }
+    .cart0{
+      position:absolute;
+      top:40px;
+      right:200px;
+      width:50px;
+      padding: 3px 3px;
+      border: 1px solid;
+      border-color: rgb(130, 123, 123);
+      transition: all 0.25s ease;
+      border-radius: 100%;
+      font-size: x-large;
+      background: none;
+      text-align: center;
+      color:white
+    }
+    .cart0:hover{
+      cursor: pointer;
+      background-color: rgba(70, 74, 73, 0.319);
+      box-shadow: 8px 8px 8px #000;
+      transition: all 0.25s ease;
+      border: 1px solid;
+    }
+
+    .Mycart{
+      border:1px solid;
+      width:350px;
+      padding: 20px 20px;
+      padding-top: 40px;
+     position: fixed;
+      top:50%;
+      left:50%;
+      transform: translate(-50%,-50%) scale(0);
+      box-shadow: 8px 8px 10px #000;  
+      transition: all 0.25s ease;
+      color:white;
+    }
+    .Mycart.active{
+      transform: translate(-50%,-50%) scale(1);
+      background-color:green;
+      box-shadow: 8px 8px 10px #000;
+      transition: all 0.25s ease;
+    }
+    .Mycart input{
+      position: absolute;
+      left:150px;
+    }
+    #amount{
+      position: absolute;
+      left:300px;
+    }
+    .Mycart .cls{
+      position: fixed;
+      top:0px;
+      right:5px;
+    }
+    .cls{
+      cursor: pointer;
+    }
+
+    .mycart .clsbtn{
+      position:fixed;
+      top:10px;
+      right:10px;
+      cursor: pointer;
+    }
+  .mycart{
+    position:fixed;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%) scale(0);
+    border:1px solid;
+    padding: 20px 20px;
+    width:800px;
+    background-color: antiquewhite;
+    transition: all 0.25s ease; 
+  }
+
+  #head th{
+    width:300px;
+  }
+
+
+
+  .mycart.active{
+    transform: translate(-50%,-50%) scale(1);
+     box-shadow: 8px 8px 8px #000;
+     transition: 0.25s ease-in-out;
+  }
+  .mycart td{
+       width:500px;
+  }
+  .mycart.active #ok{
+    margin-left: 50%;
+    padding: 0px 10px;
+    margin-top: 20px;
+    transform: translate(-20px,0px);
+  }
+  #ok:hover{
+    background-color: white;
+    cursor: pointer;
+    box-shadow:3px 3px 10px #000;
+  }
+  #ok:active{
+    transition: all 0.1s ease;
+  }
+
+#buy1,#buy2,#buy3,#buy4,#buy5,#buy6,#buy7,#buy8,#buy9,#buy10,#buy11,#buy12,#buy13,#buy14,#buy15,#buy16,#buy17,#buy18,#buy19,#buy20,#buy21,#buy22,#buy23,#buy24,#buy25,#buy26,#buy26,#buy27,#buy28,#buy29,#buy30{
+    width:60px;
+    margin-left: 50%;
+    margin-right: 50%;
+    transform: translate(-50%,0%);
+    border-radius: 5px;
+    transition: all 1s ease;
+}
+#buy1:hover,#buy2:hover,#buy3:hover,#buy4:hover,#buy5:hover,#buy6:hover,#buy7:hover,#buy8:hover,#buy9:hover,#buy10:hover,#buy11:hover,#buy12:hover,#buy13:hover,#buy14:hover,#buy15:hover,#buy16:hover,#buy17:hover,#buy18:hover,#buy19:hover,#buy20:hover,#buy21:hover,#buy22:hover,#buy23:hover,#buy24:hover,#buy25:hover,#buy26:hover,#buy26:hover,#buy27:hover,#buy28:hover,#buy29:hover,#buy30:hover{
+    background-color: rgb(24, 226, 24);
+    transition :all 1s ease;
+    box-shadow: 2px 2px 2px #000;
+}
+#sell{
+  width:60px;
+  margin-left: 50%;
+  margin-right: 50%;
+  transform: translate(-50%,0%);
+  border-radius: 5px;
+  transition: all 1s ease;
+}
+#sell:hover{
+  background-color: rgb(24, 226, 24);
+  transition :all 1s ease;
+  box-shadow: 2px 2px 2px #000;
+}
+
+#more1,#more2,#more3,#more4,#more5,#more6,#more7,#more8,#more9,#more10,#more11,#more12,#more13,#more14,#more15,#more16,#more17,#more18,#more19,#more20,#more21,#more22,#more23,#more24,#more25,#more26,#more26,#more27,#more28,#more29,#more30{
+  width:60px;
+  margin-left: 50%;
+  margin-right: 50%;
+  transform: translate(-50%,0%);
+  border-radius: 5px;
+  margin-bottom: 0px;
+  transition: all 1s ease;
+}
+
+#more1:hover,#more2:hover,#more3:hover,#more4:hover,#more5:hover,#more6:hover,#more7:hover,#more8:hover,#more9:hover,#more10:hover,#more11:hover,#more12:hover,#more13:hover,#more14:hover,#more15:hover,#more16:hover,#more17:hover,#more18:hover,#more19:hover,#more20:hover,#more21:hover,#more22:hover,#more23:hover,#more24:hover,#more25:hover,#more26:hover,#more26:hover,#more27:hover,#more28:hover,#more29:hover,#more30:hover{
+  background-color: rgb(24, 226, 24);
+  transition :all 1s ease;
+  box-shadow: 2px 2px 2px #000;
+}
+
+.products{
+ transform: scale(1);
+}
+  
+.products.active{
+  transform: scale(0);
+}
+
+.leftarrow{
+  position:fixed;
+  left:20px;
+  top:20px;
+  width:30px;
+  height:25px;
+  background-color: white;
+  border-radius: 20px;
+  text-align: center;
+  transform: scale(0);
+}
+.leftarrow:hover{
+  box-shadow: 2px 2px 20px #000;
+}
+.leftarrow.active{
+  transform: scale(1);
+}
+
+.replacecard.active{
+  transform: scale(1);;
+}
+
+.replacecard{
+    width: 270px;
+    height: 350px;
+    margin: 10px;
+    border-radius: 15px;
+    transform: scale(0);
+}
+
+#class.active{
+  transform: translate(-50%,-70%) scale(1);  
+}
+#clspbtn{
+  cursor:pointer;
+}
+#class{
+  position:fixed;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-70%) scale(0);       
+  border: 1px solid;    
+  width:25%;
+  max-width: 80%;
+  padding:5px 10px;
+  background-color: antiquewhite;
+  box-shadow: 20px 20px 20px #000;
+  transition: 200ms;
+
+}
+
+#deco #lgt{
+  background-color:red;
+  color:white;
+  padding:0px 0px;
+  position: fixed;
+  top:5px;
+  left:50%;
+  border-radius:5px;
+}
+
+#deco{
+  font-size: larger;
+  display:flex;
+  justify-content: space-between;
+}
+
+#x{
+  display:flex;
+}
+#output{
+  position:fixed;
+  left: 100px;
+  border: 1px solid;
+  width:200px;
+  padding: 5px 10px;
+}
+#user{
+  padding: 5px 0px;
+}
+
+#heading{
+  background-color: rgb(18, 18, 55);
+  height: 70px; 
+  padding-top: 10px;
+}
+#bgc{
+  background-color: rgb(18, 18, 55);
+  width:100%;
+  height:30px;  
+  position: absolute;
+  top:0px;
+}
+
+
+
